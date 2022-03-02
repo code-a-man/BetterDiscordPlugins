@@ -1075,11 +1075,12 @@
     "@svgr/plugin-svgo" "^5.5.0"
     loader-utils "^2.0.0"
 
-"@types/bandagedbd__bdapi@^0.3.1":
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/@types/bandagedbd__bdapi/-/bandagedbd__bdapi-0.3.1.tgz#c910f0ee8268a3501cc2d02e8992dc7b3a22cf08"
-  integrity sha512-wS4latJ9H6/9vt/iKBOhiFMsyZvfwjhXuIYirEXRzmrHK7tzVJk1lSegn4NHpGHCono/N4v5DM6sgv537c7DuQ==
+"@types/bandagedbd__bdapi@^0.3.4":
+  version "0.3.4"
+  resolved "https://registry.yarnpkg.com/@types/bandagedbd__bdapi/-/bandagedbd__bdapi-0.3.4.tgz#79442ed72082911033be4f8671bb85d9f151daa8"
+  integrity sha512-u3uNGv3M3Js1BkBC/Puu0e6maadvbQLDI3ePYUY3tBjFCL/sQYDgu/HzYviL3YeMD7lW48ad+v296FXcjHBkQQ==
   dependencies:
+    "@types/lodash" "*"
     "@types/react" "*"
     "@types/react-dom" "*"
 
@@ -1113,6 +1114,11 @@
   version "7.0.9"
   resolved "https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.9.tgz#97edc9037ea0c38585320b28964dde3b39e4660d"
   integrity sha512-qcUXuemtEu+E5wZSJHNxUXeCZhAfXKQ41D+duX+VYPde7xyEVZci+/oXKJL13tnRs9lR2pr4fod59GT6/X1/yQ==
+
+"@types/lodash@*":
+  version "4.14.179"
+  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.179.tgz#490ec3288088c91295780237d2497a3aa9dfb5c5"
+  integrity sha512-uwc1x90yCKqGcIOAT6DwOSuxnrAbpkdPsUOZtwrXb4D/6wZs+6qG7QnIawDuZWg0sWpxl+ltIKCaLoMlna678w==
 
 "@types/minimist@^1.2.0":
   version "1.2.1"
